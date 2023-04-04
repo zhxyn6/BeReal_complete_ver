@@ -37,6 +37,11 @@ The following **optional** features are implemented:
 - [ ] User receive notifcation when it is time to post
 - [ ] Users can make comments and view comments in posts	
 
+## Notes
+
+1. When user data has been deleted from parse server, their post data should be deleted
+2. Implenment delete button that allows users to delete post
+
 ## License
 
     Copyright [2023] [Xinran Zhao]
